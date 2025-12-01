@@ -10,8 +10,6 @@
 
 ### 🛠️ Tecnologías
 
-### 🛠️ Tecnologías
-
 ![Python](https://img.shields.io/badge/Python-458588?style=for-the-badge&logo=python&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-98971a?style=for-the-badge&logo=sql&logoColor=white)
